@@ -1,0 +1,2 @@
+-r requirements.txt
+nixtla>=0.8
